@@ -20,7 +20,7 @@ pos_x, pos_y = LARGURA // 2, ALTURA //2
 
 RAIO = 20
 
-velocidade = 5 #velocidade de movimento
+velocidade = 2 #velocidade de movimento
 
 #loop incial
 RODANDO = True
