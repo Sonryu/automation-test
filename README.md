@@ -1,0 +1,3 @@
+# TESTES E PROTOTIPOS PARA IoT <3 
+ - preferencialmente em ![Python](https://img.shields.io/badge/-Python-2ecc71?style=flat&logo=python&logoColor=white)
+ - Será adicionado funcionalidades pela internet...
